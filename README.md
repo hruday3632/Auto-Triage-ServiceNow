@@ -63,6 +63,21 @@ Screenshots available in `/screenshots` folder:
    - Email received
    - Auto-request record updated
 
+## Scoped App Export
+
+This repository includes the full scoped application as an update set.
+
+✅ Import this file: `AutoTriageApp_UpdateSet.xml`  
+📍 Go to: `System Update Sets > Retrieved Update Sets`  
+🡒 Use “Import XML”, then Preview + Commit.
+
+The app includes:
+- Custom table: `auto_request`
+- Flow Designer logic to create, assign, notify
+- Record Producer integration
+- Email integration using SMTP
+
+
 ---
 
 ## 🙋 Author
